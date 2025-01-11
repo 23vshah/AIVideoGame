@@ -5,6 +5,7 @@ package AiCompetition.com.commands;
 
 import AiCompetition.com.Spaceship;
 
+
 public abstract class Command
 {
     private int whichComponent;
